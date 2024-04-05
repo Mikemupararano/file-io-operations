@@ -1,4 +1,6 @@
 # File Input/Output Operations
+
+## Description
 In this Python code, I have written some codes that read the data from the text ﬁle called "DOB.txt" and prints it out in two different sections in the format displayed below:
 Name
 Orville Wright
@@ -14,6 +16,7 @@ Birthdate
 
 ## Table of Contents
 - [File Input/Output Operations](#file-inputoutput-operations)
+  - [Description](#description)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
